@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post 2!
+title: Get a Job!
 ---
 
-This is me learning to make another post 
+second post
