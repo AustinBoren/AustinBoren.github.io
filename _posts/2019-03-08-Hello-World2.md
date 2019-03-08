@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post 2
+title: Get a Job!
 ---
 
-Will this work?
+will this work?
