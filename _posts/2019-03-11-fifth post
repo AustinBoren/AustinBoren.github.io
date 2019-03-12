@@ -1,0 +1,12 @@
+---
+style: post
+title: Something Small
+---
+
+If you want to move a file (not copy!) with you mac terminal use the following syntax:
+
+$mv /path/to/source /path/to/destination
+
+Make sure you direclty copy the *name* of the file to be moved and copy *path* to desired destination  
+
+![](/AustinBoren.github.io/images/move.png)
