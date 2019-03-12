@@ -9,4 +9,4 @@ $mv /path/to/source /path/to/destination
 
 Make sure you direclty copy the *name* of the file to be moved and copy *path* to desired destination  
 
-![](/AustinBoren.github.io/images/move.png)
+![](/images/move.png)
